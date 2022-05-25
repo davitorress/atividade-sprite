@@ -23,7 +23,7 @@ body {
     width: 256px;
     height: 256px;
     animation: anima-sprite 1s steps(13) infinite;
-    background-image: url(../imgs/mario-sprite.png);
+    background-image: url(../img/mario-sprite.png);
 }
 
 @keyframes anima-sprite {
